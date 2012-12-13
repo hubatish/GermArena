@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audacityproject projname="93741__omar-alvarado__explosion_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.6464625850" vpos="0" h="0.0000000000" zoom="133.3720311660" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="93741__omar-alvarado__explosion" channel="0" linked="1" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="28509" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00034.au' len='28509' min='-1.000000' max='1.000000' rms='0.266855'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="93741__omar-alvarado__explosion" channel="1" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="28509" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00035.au' len='28509' min='-1.000000' max='1.000000' rms='0.256627'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

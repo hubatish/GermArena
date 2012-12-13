@@ -1,0 +1,7 @@
+make music go faster
+slower enemies to start
+faster player?
+fewer enemies to start
+add sound effects
+add mouse to menu
+add text to score

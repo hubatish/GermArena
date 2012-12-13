@@ -1,0 +1,1 @@
+Total speed (constant) = speed in main direction + speed in perpendicular direction.  The random speed in a perpendicular direction will be determined at short time intervals, with a 1/2 chance to move ‘up’ and a ½ chance to move ‘down’.  
